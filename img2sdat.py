@@ -49,6 +49,7 @@ def main(argv):
             2. Android Lollipop 5.1
             3. Android Marshmallow 6.0
             4. Android Nougat 7.0
+            5. Android Nougat 7.1
             ''')
             item = raw_input('Choose system version: ')
             if item == '1':
